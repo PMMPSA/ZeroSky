@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "1": [
+            225,
+            12,
+            -286,
+            "TestBuild",
+            3.1906585693359375,
+            42.53807067871094
+        ],
+        "w": [
+            -1592,
+            69,
+            -96,
+            "SkyBlock",
+            177.64718627929688,
+            -12.720184326171875
+        ],
+        "3": [
+            229,
+            7,
+            -284,
+            "TestBuild",
+            127.18341064453125,
+            87.968505859375
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "Admin",
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

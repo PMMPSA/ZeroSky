@@ -1,0 +1,2 @@
+This plugin is made by @OGFris (github.com/OGFris), the plugin uses an Online API also made by @OGFris to check the IP.
+ If you want the process to be 3 times FASTER, contact @OGFris on twitter or email support@legacyhcf.net to buy a license key as cheap as $10 for lifetime!

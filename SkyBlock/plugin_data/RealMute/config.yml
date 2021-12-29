@@ -1,0 +1,17 @@
+---
+version: 3.5.0
+muteall: false
+notification: true
+excludeop: true
+wordmute: false
+banpm: false
+banspam: false
+banlengthy: false
+bansign: false
+muteidentity: false
+spamthreshold: false
+automutetime: false
+lengthlimit: false
+mutedplayers: ""
+bannedwords: ""
+...

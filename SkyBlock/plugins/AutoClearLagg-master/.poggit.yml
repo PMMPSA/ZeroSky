@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/PotatoeTrainYT/AutoClearLagg
+branches:
+- master
+projects:
+  AutoClearLagg:
+    path: ""
+...

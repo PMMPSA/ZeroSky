@@ -1,0 +1,54 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "1": [
+            13,
+            5,
+            -365,
+            "TestBuild",
+            259.9743957519531,
+            -13.945327758789062
+        ],
+        "2": [
+            250,
+            20,
+            232,
+            "lobby",
+            179.6929931640625,
+            8.288162231445312
+        ],
+        "3": [
+            1023,
+            69,
+            837,
+            "SkyBlock",
+            338.6924591064453,
+            42.08595275878906
+        ],
+        "bed": [
+            -474,
+            69,
+            -845,
+            "SkyBlock",
+            0,
+            0
+        ],
+        "4": [
+            279,
+            4,
+            -164,
+            "TestBuild",
+            312.3947448730469,
+            14.25408935546875
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

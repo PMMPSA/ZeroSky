@@ -1,0 +1,62 @@
+---
+1:
+  pos:
+    x: 1413
+    "y": 73
+    z: -1587
+    level: SkyBlock
+  c1:
+    x: 1414
+    "y": 72
+    z: -1587
+    level: SkyBlock
+  c2:
+    x: 1412
+    "y": 72
+    z: -1587
+    level: SkyBlock
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+jaildrop:
+  pos:
+    x: -289
+    "y": 69
+    z: -659
+    level: SkyBlock
+  c1:
+    x: -289
+    "y": 68
+    z: -659
+    level: SkyBlock
+  c2:
+    x: -289
+    "y": 68
+    z: -660
+    level: SkyBlock
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+jail1:
+  pos:
+    x: 1412
+    "y": 73
+    z: -1587
+    level: SkyBlock
+  c1:
+    x: 1409
+    "y": 73
+    z: -1589
+    level: SkyBlock
+  c2:
+    x: 1416
+    "y": 75
+    z: -1585
+    level: SkyBlock
+  allow-bail: true
+  allow-visit: true
+  mine:
+    isSet: false
+...

@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "nether": [
+            247,
+            55,
+            194,
+            "teanether",
+            263.1299819946289,
+            10.85333251953125
+        ],
+        "tinh2": [
+            274,
+            69,
+            1769,
+            "SkyBlock",
+            92.56341552734375,
+            21.235992431640625
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

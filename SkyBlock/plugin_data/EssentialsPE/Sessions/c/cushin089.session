@@ -1,0 +1,30 @@
+{
+    "isAFK": true,
+    "isGod": false,
+    "homes": {
+        "cushin089": [
+            -1587,
+            69,
+            90,
+            "SkyBlock",
+            288.4292678833008,
+            13.263473510742188
+        ],
+        "2": [
+            -664,
+            87,
+            1764,
+            "SkyBlock",
+            78.00765991210938,
+            90
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

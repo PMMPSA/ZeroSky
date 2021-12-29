@@ -1,0 +1,15 @@
+name: AntiServerStop
+main: AntiServerStop\Main
+version: 1.1
+api: 3.1.1
+load: POSTWORLD
+author: paetti
+description: Plugin blocks server stop command
+commands:
+ antiserverstop:
+  description: Plugin Information
+  permission: antiserverstop.info
+permissions:
+ antiserverstop.info:
+  description: "Plugin Information"
+  default: true

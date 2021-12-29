@@ -1,0 +1,130 @@
+#This is config for setting every PurePerms group. Groups are automatically generated.
+#If you created new group, reload PP, and enter "/sb reload" to see it here.
+# %DEFAULT% - take the value from the default config.
+#Another strings - at the default config.
+
+Guest:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Admin:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Owner:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+OP:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Youtube:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Police:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Builder:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+2:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+3:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+4:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+5:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Trùm:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Helper:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+vip1:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+1:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+§l§cQuýTộcKì:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Superman:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Superman2:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+PMem:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+Coder:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"
+
+MP:
+  hud-format: "%DEFAULT%"
+  hud-shift-level: "%DEFAULT%"
+  type: "%DEFAULT%"
+  time-format: "%DEFAULT%"

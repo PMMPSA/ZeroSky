@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "cushin089": [
+            -1585,
+            69,
+            87,
+            "SkyBlock",
+            122.54885864257812,
+            11.772109985351562
+        ],
+        "stark": [
+            -1402,
+            65,
+            1218,
+            "SkyBlock",
+            97.25250244140625,
+            20.981231689453125
+        ],
+        "bed": [
+            -2154,
+            69,
+            2147,
+            "SkyBlock",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

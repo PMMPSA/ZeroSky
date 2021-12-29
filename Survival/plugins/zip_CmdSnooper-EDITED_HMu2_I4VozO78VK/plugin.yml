@@ -1,0 +1,14 @@
+name: CmdSnooper
+main: cmdsnooper\CmdSnooper
+version: 1.2.0
+api: [1.13.0, 4.0.0, 3.0.0, 3.0.0-ALPHA12]
+author: HotshotHD & CodeRed2019
+description: Spy on players to see what commands are being ran
+
+commands:
+  snoop:
+    description: Enter snoop mode
+permissions:
+   snoop.command:
+    default: op
+ 

@@ -1,0 +1,144 @@
+name: Jail
+main: hoyinm14mc\jail\Jail
+api: ["3.0.0"]
+version: 1.3.0
+author: hoyinm14mc
+description: An advanced jail punishment system for PocketMine servers
+load: POSTWORLD
+
+commands:
+  deljail:
+    description: Deletes a jail
+    permission: jail.command.deljail
+    usage: /deljail <jail>
+  setjail:
+    description: Sets a jail
+    permission: jail.command.setjail
+    usage: /setjail <jail> <args...>
+    aliases: ["jailset"]
+  jails:
+    description: Get a list of available jails
+    permission: jail.command.jails
+    usage: /jails
+    aliases: ["jaillist"]
+  jail:
+    description: Jails a player
+    permission: jail.command.jail
+    usage: /jail <player> <jail> <time|-i> <reason..>
+  unjail:
+    description: Unjails an online/offline player
+    permission: jail.command.unjail
+    usage: /unjail <player>
+  jailed:
+    description: Check the list of jailed players
+    permission: jail.command.jailed
+    usage: /jailed
+    aliases: ["prisoners"]
+  switchjail:
+    description: Switch a prisoner to another jail
+    permission: jail.command.switchjail
+    usage: /switchjail <player> <jail>
+    aliases: ["transferjail", "jailswitch"]
+  tpjail:
+    description: Teleport a player to a jail location
+    permission: jail.command.jailtp
+    usage: /tpjail <jail> <player>
+    aliases: ["jailtp"]
+  bail:
+    description: Bails from a jail
+    permission: jail.command.bail
+    usage: /bail
+  votejail:
+    description: Vote a player into jail
+    permission: jail.command.votejail
+    usage: /votejail <player>
+    aliases: ["jailvote"]
+  jailmine:
+    description: Manage mines of jails
+    permission: jail.command.jailmine
+    usage: /jailmine reset|set|remove|check <jail(mine)>
+  jailsellhand:
+    description: Prisoner's cmd> Sell ores mined for money
+    permission: jail.command.jailsellhand
+    usage: /jailsellhand
+  jailresetmine:
+    descripiton: Prisoner's cmd> Reset the mine of prisoner's jail
+    permission: jail.command.jailresetmine
+    usage: /jailresetmine
+  jailinfo:
+    description: Provides information about a jail
+    permission: jail.command.jailinfo
+    usage: /jailinfo <jail>
+    aliases: ["jailcheck"]
+  prisonerinfo:
+    description: Provides information about a prisoner
+    permission: jail.command.prisonerinfo
+    usage: /prisonerinfo <player_name>
+    
+permission:
+  jail.command.setjail:
+    default: op
+    description: Allows admins to set jails
+  jail.command.deljail:
+    default: op
+    description: Allows admins to delete a jail
+  jail.command.jails:
+    default: op
+    description: Allows admins to get a list of available jails
+  jail.command.jail:
+    default: op
+    description: Allows admins to jail players into jails
+  jail.command.unjail:
+    default: op
+    description: Allows admins to unjail online/offline players
+  jail.command.jailed:
+    default: op
+    description: Allows admins to check the list of jailed players
+  jail.command.switchjail:
+    default: op
+    description: Allows admins to switch a prisoner's jail
+  jail.command.jailtp:
+    default: true
+    description: Allows players to visit a jail
+  jail.command.bail:
+    default: true
+    description: Allows jailed players to bail
+  jail.command.jailmine:
+    default: op
+    description: Allows admins to manage mine inside jails
+  jail.command.votejail:
+    default: true
+    description: Allows players to vote someone who behaves badly into jail
+  jail.uuidcheck.bypass:
+    default: false
+    description: Allows players to bypass UUID check while logging into the server
+  jail.sign.destroy:
+    default: op
+    description: Allows admins to remove bail signs
+  jail.sign.create:
+    default: op
+    description: Allows admins to create bail signs
+  jail.sign.use:
+    default: true
+    description: Allows prisoners to bail
+  jail.modify.bypass:
+    default: op
+    description: Allows certain players to build/destroy jail area structures
+  jail.command.jailsellhand:
+    default: true
+    description: Allows jailed players to sell their ores mined in jail
+  jail.command.jailresetmine:
+    default: true
+    description: Allows jailed players to reset their jail's mine
+  jail.command.jailinfo:
+    default: op
+    description: Allows admins to obtain a jail's information
+  jail.command.prisonerinfo:
+    default: op
+    description: Allows admins to obtain a prisoner's information
+  jail.showInOutMessage:
+    default: true
+    description: Allows receiving jail enter/leave notification
+  jail.visit.bypass:
+    default: op
+    description: Allows admins to visit any jails

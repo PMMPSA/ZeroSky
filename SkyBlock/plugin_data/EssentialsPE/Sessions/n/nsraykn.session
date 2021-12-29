@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "afk": [
+            -2331,
+            99,
+            1773,
+            "SkyBlock",
+            89.41949462890625,
+            90
+        ],
+        "exp": [
+            -2334,
+            81,
+            1783,
+            "SkyBlock",
+            279.3859100341797,
+            89.1707763671875
+        ],
+        "fram": [
+            293,
+            35,
+            261,
+            "teanether",
+            279.3667984008789,
+            8.86810302734375
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

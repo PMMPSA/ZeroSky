@@ -1,0 +1,677 @@
+2018-09-02 [17:17:32] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2018-09-02 [17:17:32] [Server thread/INFO]: Loading pocketmine.yml...
+2018-09-02 [17:17:32] [Server thread/INFO]: Selected English (eng) as the base language
+2018-09-02 [17:17:32] [Server thread/INFO]: Loading server properties...
+2018-09-02 [17:17:32] [Server thread/INFO]: Starting Minecraft: PE server version v1.5.0
+2018-09-02 [17:17:32] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2018-09-02 [17:17:32] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2018-09-02 [17:17:32] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2018-09-02 [17:17:33] [Server thread/INFO]: This server is running PocketMine-MP version 3.1.5
+2018-09-02 [17:17:33] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading resource packs...
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading DevTools v1.13.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Enabling DevTools v1.13.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading AutoClearLagg v2.0.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading BlazinFeed v1.2.1
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading BuyEnchant v1
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading CONSOLEChat v1.0.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading FormAPI v1.2.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading KeepInventory v1.0.1
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading SETVIP v2.3
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading GuiShop v1.0.0-ALPHA1
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading SimpleWorldLoader v1.0.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading SlapperRotation v1.2.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading superBAR v2.0.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading TeaSpoon v1.0.0
+2018-09-02 [17:17:34] [Server thread/INFO]: [TeaSpoon] Loading Resources...
+2018-09-02 [17:17:34] [Server thread/WARNING]: [TeaSpoon] You're using a developer's build of TeaSpoon. For better performance and stability, please get a pre-packaged version here: https://poggit.pmmp.io/ci/CortexPE/TeaSpoon/~
+2018-09-02 [17:17:34] [Server thread/WARNING]: [TeaSpoon] Non-Packaged / Unsupported PocketMine installation detected. Some of TeaSpoon's protective functions are now disabled.
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading VanillaEnchantments v3.1.0_ALPHA
+2018-09-02 [17:17:34] [Server thread/INFO]: [VanillaEnchantments] Outdated config version detected, updating config...
+2018-09-02 [17:17:34] [Server thread/INFO]: [VanillaEnchantments] Loading vanilla enchantments by TheAz928...
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading VoteReward v3.0.3
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading AlwaysSpawn v2.2.4
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading AutoInv v0.0.9
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading Broadcaster v1.5
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading ChestShop v4
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading CmdSnooper v1.2.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading CustomAlerts v2
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading EssentialsPE v2.1.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading InvSee v0.0.1
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading Jail v1.3.0
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading KillChat v1.0.2.MOD
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading MagicWE v0.4.0
+2018-09-02 [17:17:34] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading MSpawns v2.2
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading MultiWorld v1.4.3
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading MysteryCrate v6.4.2
+2018-09-02 [17:17:34] [Server thread/INFO]: Loading PiggyCustomEnchants v1.2.0
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading PurePerms v1.4.2
+2018-09-02 [17:17:35] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-09-02 [17:17:35] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-09-02 [17:17:35] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-09-02 [17:17:35] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading Repair v1.0.1
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading RocketPads v1.0.0
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading Sell v1.2.10.2
+2018-09-02 [17:17:35] [Server thread/INFO]: [Sell] Server đang ép plugin khởi động :))
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading SizePlayer v1.0.3
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading Slapper v1.4.0
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading TopVoter v3.0.0
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading FactionsPro v1.4.6
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading PureChat v1.4.11
+2018-09-02 [17:17:35] [Server thread/INFO]: Loading SimpleWarp v4.0.1
+2018-09-02 [17:17:35] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2018-09-02 [17:17:35] [Server thread/INFO]: Enabling TeaSpoon v1.0.0
+2018-09-02 [17:17:35] [Server thread/INFO]: [TeaSpoon] Loading...
+
+MMP""MM""YMM               .M"""bgd                                        
+P'   MM   `7              ,MI    "Y                                        
+     MM  .gP"Ya   ,6"Yb.  `MMb.   `7MMpdMAo.  ,pW"Wq.   ,pW"Wq.`7MMpMMMb.  
+     MM ,M'   Yb 8)   MM    `YMMNq. MM   `Wb 6W'   `Wb 6W'   `Wb MM    MM  
+     MM 8M""""""  ,pm9MM  .     `MM MM    M8 8M     M8 8M     M8 MM    MM  
+     MM YM.    , 8M   MM  Mb     dM MM   ,AP YA.   ,A9 YA.   ,A9 MM    MM  
+   .JMML.`Mbmmd' `Moo9^Yo.P"Ybmmd"  MMbmmd'   `Ybmd9'   `Ybmd9'.JMML  JMML.
+                                    MM                                     
+                                  .JMML.  Nihilism sees the sun.
+Copyright (C) CortexPE 2017-2018
+
+2018-09-02 [17:17:47] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading pocketmine.yml...
+2018-09-02 [17:17:47] [Server thread/INFO]: Selected English (eng) as the base language
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading server properties...
+2018-09-02 [17:17:47] [Server thread/INFO]: Starting Minecraft: PE server version v1.5.0
+2018-09-02 [17:17:47] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2018-09-02 [17:17:47] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2018-09-02 [17:17:47] [Server thread/INFO]: Opening server on 0.0.0.0:19133
+2018-09-02 [17:17:47] [Server thread/INFO]: This server is running PocketMine-MP version 3.1.5
+2018-09-02 [17:17:47] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading resource packs...
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading DevTools v1.13.0
+2018-09-02 [17:17:47] [Server thread/INFO]: Enabling DevTools v1.13.0
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading AutoClearLagg v2.0.0
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading BlazinFeed v1.2.1
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading BuyEnchant v1
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading CONSOLEChat v1.0.0
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading FormAPI v1.2.0
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading KeepInventory v1.0.1
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading SETVIP v2.3
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading GuiShop v1.0.0-ALPHA1
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading SimpleWorldLoader v1.0.0
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading SlapperRotation v1.2.0
+2018-09-02 [17:17:47] [Server thread/INFO]: Loading superBAR v2.0.0
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading TeaSpoon v1.0.0
+2018-09-02 [17:17:48] [Server thread/INFO]: [TeaSpoon] Loading Resources...
+2018-09-02 [17:17:48] [Server thread/WARNING]: [TeaSpoon] You're using a developer's build of TeaSpoon. For better performance and stability, please get a pre-packaged version here: https://poggit.pmmp.io/ci/CortexPE/TeaSpoon/~
+2018-09-02 [17:17:48] [Server thread/WARNING]: [TeaSpoon] Non-Packaged / Unsupported PocketMine installation detected. Some of TeaSpoon's protective functions are now disabled.
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading VanillaEnchantments v3.1.0_ALPHA
+2018-09-02 [17:17:48] [Server thread/INFO]: [VanillaEnchantments] Outdated config version detected, updating config...
+2018-09-02 [17:17:48] [Server thread/INFO]: [VanillaEnchantments] Loading vanilla enchantments by TheAz928...
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading VoteReward v3.0.3
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading AlwaysSpawn v2.2.4
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading AutoInv v0.0.9
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading Broadcaster v1.5
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading ChestShop v4
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading CmdSnooper v1.2.0
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading CustomAlerts v2
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading EssentialsPE v2.1.0
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading InvSee v0.0.1
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading Jail v1.3.0
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading KillChat v1.0.2.MOD
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading MagicWE v0.4.0
+2018-09-02 [17:17:48] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading MSpawns v2.2
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading MultiWorld v1.4.3
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading MysteryCrate v6.4.2
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading PiggyCustomEnchants v1.2.0
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading PurePerms v1.4.2
+2018-09-02 [17:17:48] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-09-02 [17:17:48] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-09-02 [17:17:48] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-09-02 [17:17:48] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading Repair v1.0.1
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading RocketPads v1.0.0
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading Sell v1.2.10.2
+2018-09-02 [17:17:48] [Server thread/INFO]: [Sell] Server đang ép plugin khởi động :))
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading SizePlayer v1.0.3
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading Slapper v1.4.0
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading TopVoter v3.0.0
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading FactionsPro v1.4.6
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading PureChat v1.4.11
+2018-09-02 [17:17:48] [Server thread/INFO]: Loading SimpleWarp v4.0.1
+2018-09-02 [17:17:48] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2018-09-02 [17:17:48] [Server thread/INFO]: Enabling TeaSpoon v1.0.0
+2018-09-02 [17:17:48] [Server thread/INFO]: [TeaSpoon] Loading...
+
+MMP""MM""YMM               .M"""bgd                                        
+P'   MM   `7              ,MI    "Y                                        
+     MM  .gP"Ya   ,6"Yb.  `MMb.   `7MMpdMAo.  ,pW"Wq.   ,pW"Wq.`7MMpMMMb.  
+     MM ,M'   Yb 8)   MM    `YMMNq. MM   `Wb 6W'   `Wb 6W'   `Wb MM    MM  
+     MM 8M""""""  ,pm9MM  .     `MM MM    M8 8M     M8 8M     M8 MM    MM  
+     MM YM.    , 8M   MM  Mb     dM MM   ,AP YA.   ,A9 YA.   ,A9 MM    MM  
+   .JMML.`Mbmmd' `Moo9^Yo.P"Ybmmd"  MMbmmd'   `Ybmd9'   `Ybmd9'.JMML  JMML.
+                                    MM                                     
+                                  .JMML.  Tomorrow revels in authority.
+Copyright (C) CortexPE 2017-2018
+
+2018-09-02 [17:17:48] [Server thread/INFO]: [TeaSpoon] TeaSpoon is distributed under the AGPL License
+2018-09-02 [17:17:48] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.4
+2018-09-02 [17:17:48] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-09-02 [17:17:48] [Server thread/INFO]: Enabling Broadcaster v1.5
+2018-09-02 [17:17:48] [Server thread/INFO]: Enabling CustomAlerts v2
+2018-09-02 [17:17:48] [Server thread/INFO]: Enabling MagicWE v0.4.0
+2018-09-02 [17:17:49] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling MSpawns v2.2
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2018-09-02 [17:17:49] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Level "Hub" not found
+2018-09-02 [17:17:49] [Server thread/INFO]: Preparing level "Hub"
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Level "teanether" not found
+2018-09-02 [17:17:49] [Server thread/INFO]: Preparing level "teanether"
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Spawn terrain for level "teanether" is being generated in the background
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Level "ender" not found
+2018-09-02 [17:17:49] [Server thread/INFO]: Preparing level "ender"
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Spawn terrain for level "ender" is being generated in the background
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Spawn terrain for level "Hub" is being generated in the background
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling AutoClearLagg v2.0.0
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling BlazinFeed v1.2.1
+2018-09-02 [17:17:49] [Server thread/INFO]: [BlazinFeed] BlazinFeedv1.2.1by iiFlamiinBlaze is enabled
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling BuyEnchant v1
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling CONSOLEChat v1.0.0
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling FormAPI v1.2.0
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling KeepInventory v1.0.1
+2018-09-02 [17:17:49] [Server thread/INFO]: PiZYDS-KeepInventory by PillarsZhang.
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling SETVIP v2.3
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling GuiShop v1.0.0-ALPHA1
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling SimpleWorldLoader v1.0.0
+2018-09-02 [17:17:49] [Server thread/NOTICE]: [SimpleWorldLoader] Loading Worlds: world, world1, world2
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Level "world" not found
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Level "world1" not found
+2018-09-02 [17:17:49] [Server thread/NOTICE]: Level "world2" not found
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling SlapperRotation v1.2.0
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling superBAR v2.0.0
+2018-09-02 [17:17:49] [Server thread/INFO]: [superBAR] superBAR will be enabled after the complete server load
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling VanillaEnchantments v3.1.0_ALPHA
+2018-09-02 [17:17:49] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling VoteReward v3.0.3
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling AutoInv v0.0.9
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling ChestShop v4
+2018-09-02 [17:17:49] [Server thread/INFO]: [ChestShop] Registered InvMenuHandler
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling CmdSnooper v1.2.0
+2018-09-02 [17:17:49] [Server thread/INFO]: [CmdSnooper] Enabled! Ready to snoop >:D
+2018-09-02 [17:17:49] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2018-09-02 [17:17:50] [Server thread/NOTICE]: [EconomyAPI] 
+2018-09-02 [17:17:50] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-09-02 [17:17:50] [Server thread/INFO]: Enabling EssentialsPE v2.1.0
+2018-09-02 [17:17:50] [Server thread/INFO]: [EssentialsPE] SimpleWarp installed, disabling EssentialsPE warps...
+2018-09-02 [17:17:50] [Server thread/INFO]: Enabling InvSee v0.0.1
+2018-09-02 [17:17:50] [Server thread/INFO]: [InvSee] Registered InvMenuHandler
+2018-09-02 [17:17:50] [Server thread/INFO]: Enabling Jail v1.3.0
+2018-09-02 [17:17:50] [Server thread/INFO]: [Jail] Loading configurations...
+2018-09-02 [17:17:50] [Server thread/INFO]: [Jail] Loaded with EconomyAPI!
+2018-09-02 [17:17:50] [Server thread/INFO]: [Jail] Checking data compatibility...
+2018-09-02 [17:17:50] [Server thread/INFO]: [Jail] All data is compatible to this version!
+2018-09-02 [17:17:50] [Server thread/INFO]: [Jail] Loaded Successfully!
+2018-09-02 [17:17:50] [Server thread/INFO]: Enabling KillChat v1.0.2.MOD
+2018-09-02 [17:17:50] [Server thread/INFO]: [KillChat] Modified KillChat extension for superBAR enabled
+2018-09-02 [17:17:50] [Server thread/INFO]: Enabling MultiWorld v1.4.3
+2018-09-02 [17:17:50] [Server thread/INFO]: Enabling MysteryCrate v6.4.2
+2018-09-02 [17:17:52] [Server thread/INFO]: [MysteryCrate] Plugin Enabled.
+2018-09-02 [17:17:52] [Server thread/INFO]: Enabling PiggyCustomEnchants v1.2.0
+2018-09-02 [17:17:54] [Server thread/INFO]: [PiggyCustomEnchants] Enabled.
+2018-09-02 [17:17:54] [Server thread/INFO]: Enabling PurePerms v1.4.2
+2018-09-02 [17:17:54] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-09-02 [17:17:56] [Server thread/INFO]: Enabling Repair v1.0.1
+2018-09-02 [17:17:57] [Server thread/INFO]: [Repair] Plugin Enabled.
+2018-09-02 [17:17:57] [Server thread/INFO]: Enabling RocketPads v1.0.0
+2018-09-02 [17:17:57] [Server thread/INFO]: Enabling RocketPads v1.0.0...
+2018-09-02 [17:17:57] [Server thread/INFO]: Enabling Sell v1.2.10.2
+2018-09-02 [17:17:57] [Server thread/INFO]: [Sell] 
+   _____      _ _ 
+  / ____|    | | |
+ | (___   ___| | |
+  \___ \ / _ \ | |
+  ____) |  __/ | |
+ |_____/ \___|_|_|
+ Đã kích hoạt sell làm bởi jack và được fix by nguyên.
+ 		
+2018-09-02 [17:17:58] [Server thread/INFO]: Enabling SizePlayer v1.0.3
+2018-09-02 [17:17:58] [Server thread/INFO]: [SizePlayer] SizePlayer plugin is successfully enabled!
+2018-09-02 [17:17:58] [Server thread/INFO]: Enabling Slapper v1.4.0
+2018-09-02 [17:18:00] [Server thread/INFO]: Enabling TopVoter v3.0.0
+2018-09-02 [17:18:01] [Server thread/INFO]: Enabling FactionsPro v1.4.6
+2018-09-02 [17:18:02] [Server thread/INFO]: [FactionsPro] PureChat Integration Enabled
+2018-09-02 [17:18:25] [Server thread/INFO]: Enabling PureChat v1.4.11
+2018-09-02 [17:18:25] [Server thread/NOTICE]: [PureChat] FactionsPro >= 1.4 support enabled.
+2018-09-02 [17:18:25] [Server thread/INFO]: Enabling SimpleWarp v4.0.1
+2018-09-02 [17:18:28] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2018-09-02 [17:18:28] [Server thread/INFO]: Loading pocketmine.yml...
+2018-09-02 [17:18:28] [Server thread/INFO]: Selected English (eng) as the base language
+2018-09-02 [17:18:28] [Server thread/INFO]: Loading server properties...
+2018-09-02 [17:18:28] [Server thread/INFO]: Starting Minecraft: PE server version v1.5.0
+2018-09-02 [17:18:28] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2018-09-02 [17:18:28] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2018-09-02 [17:18:28] [Server thread/INFO]: Opening server on 0.0.0.0:19133
+2018-09-02 [17:18:28] [Server thread/INFO]: This server is running PocketMine-MP version 3.1.5
+2018-09-02 [17:18:28] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading resource packs...
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading DevTools v1.13.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Enabling DevTools v1.13.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading AutoClearLagg v2.0.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading BlazinFeed v1.2.1
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading BuyEnchant v1
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading CONSOLEChat v1.0.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading FormAPI v1.2.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading KeepInventory v1.0.1
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading SETVIP v2.3
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading GuiShop v1.0.0-ALPHA1
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading SimpleWorldLoader v1.0.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading SlapperRotation v1.2.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading superBAR v2.0.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading TeaSpoon v1.0.0
+2018-09-02 [17:18:29] [Server thread/INFO]: [TeaSpoon] Loading Resources...
+2018-09-02 [17:18:29] [Server thread/WARNING]: [TeaSpoon] You're using a developer's build of TeaSpoon. For better performance and stability, please get a pre-packaged version here: https://poggit.pmmp.io/ci/CortexPE/TeaSpoon/~
+2018-09-02 [17:18:29] [Server thread/WARNING]: [TeaSpoon] Non-Packaged / Unsupported PocketMine installation detected. Some of TeaSpoon's protective functions are now disabled.
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading VanillaEnchantments v3.1.0_ALPHA
+2018-09-02 [17:18:29] [Server thread/INFO]: [VanillaEnchantments] Outdated config version detected, updating config...
+2018-09-02 [17:18:29] [Server thread/INFO]: [VanillaEnchantments] Loading vanilla enchantments by TheAz928...
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading VoteReward v3.0.3
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading AlwaysSpawn v2.2.4
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading AutoInv v0.0.9
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading Broadcaster v1.5
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading ChestShop v4
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading CmdSnooper v1.2.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading CustomAlerts v2
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading EssentialsPE v2.1.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading InvSee v0.0.1
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading Jail v1.3.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading KillChat v1.0.2.MOD
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading MagicWE v0.4.0
+2018-09-02 [17:18:29] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading MSpawns v2.2
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading MultiWorld v1.4.3
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading MysteryCrate v6.4.2
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading PiggyCustomEnchants v1.2.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading PurePerms v1.4.2
+2018-09-02 [17:18:29] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-09-02 [17:18:29] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-09-02 [17:18:29] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-09-02 [17:18:29] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading Repair v1.0.1
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading RocketPads v1.0.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading Sell v1.2.10.2
+2018-09-02 [17:18:29] [Server thread/INFO]: [Sell] Server đang ép plugin khởi động :))
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading SizePlayer v1.0.3
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading Slapper v1.4.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading TopVoter v3.0.0
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading FactionsPro v1.4.6
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading PureChat v1.4.11
+2018-09-02 [17:18:29] [Server thread/INFO]: Loading SimpleWarp v4.0.1
+2018-09-02 [17:18:29] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2018-09-02 [17:18:29] [Server thread/INFO]: Enabling TeaSpoon v1.0.0
+2018-09-02 [17:18:29] [Server thread/INFO]: [TeaSpoon] Loading...
+
+MMP""MM""YMM               .M"""bgd                                        
+P'   MM   `7              ,MI    "Y                                        
+     MM  .gP"Ya   ,6"Yb.  `MMb.   `7MMpdMAo.  ,pW"Wq.   ,pW"Wq.`7MMpMMMb.  
+     MM ,M'   Yb 8)   MM    `YMMNq. MM   `Wb 6W'   `Wb 6W'   `Wb MM    MM  
+     MM 8M""""""  ,pm9MM  .     `MM MM    M8 8M     M8 8M     M8 MM    MM  
+     MM YM.    , 8M   MM  Mb     dM MM   ,AP YA.   ,A9 YA.   ,A9 MM    MM  
+   .JMML.`Mbmmd' `Moo9^Yo.P"Ybmmd"  MMbmmd'   `Ybmd9'   `Ybmd9'.JMML  JMML.
+                                    MM                                     
+                                  .JMML.  An enigma wants to go to hell.
+Copyright (C) CortexPE 2017-2018
+
+2018-09-02 [17:18:29] [Server thread/INFO]: [TeaSpoon] TeaSpoon is distributed under the AGPL License
+2018-09-02 [17:18:29] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.4
+2018-09-02 [17:18:29] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-09-02 [17:18:29] [Server thread/INFO]: Enabling Broadcaster v1.5
+2018-09-02 [17:18:29] [Server thread/INFO]: Enabling CustomAlerts v2
+2018-09-02 [17:18:29] [Server thread/INFO]: Enabling MagicWE v0.4.0
+2018-09-02 [17:18:29] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-09-02 [17:18:29] [Server thread/INFO]: Enabling MSpawns v2.2
+2018-09-02 [17:18:29] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2018-09-02 [17:18:30] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-09-02 [17:18:30] [Server thread/INFO]: Preparing level "Hub"
+2018-09-02 [17:18:30] [Server thread/INFO]: Preparing level "teanether"
+2018-09-02 [17:18:30] [Server thread/INFO]: Preparing level "ender"
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling AutoClearLagg v2.0.0
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling BlazinFeed v1.2.1
+2018-09-02 [17:18:30] [Server thread/INFO]: [BlazinFeed] BlazinFeedv1.2.1by iiFlamiinBlaze is enabled
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling BuyEnchant v1
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling CONSOLEChat v1.0.0
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling FormAPI v1.2.0
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling KeepInventory v1.0.1
+2018-09-02 [17:18:30] [Server thread/INFO]: PiZYDS-KeepInventory by PillarsZhang.
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling SETVIP v2.3
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling GuiShop v1.0.0-ALPHA1
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling SimpleWorldLoader v1.0.0
+2018-09-02 [17:18:30] [Server thread/NOTICE]: [SimpleWorldLoader] Loading Worlds: world, world1, world2
+2018-09-02 [17:18:30] [Server thread/NOTICE]: Level "world" not found
+2018-09-02 [17:18:30] [Server thread/NOTICE]: Level "world1" not found
+2018-09-02 [17:18:30] [Server thread/NOTICE]: Level "world2" not found
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling SlapperRotation v1.2.0
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling superBAR v2.0.0
+2018-09-02 [17:18:30] [Server thread/INFO]: [superBAR] superBAR will be enabled after the complete server load
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling VanillaEnchantments v3.1.0_ALPHA
+2018-09-02 [17:18:30] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling VoteReward v3.0.3
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling AutoInv v0.0.9
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling ChestShop v4
+2018-09-02 [17:18:30] [Server thread/INFO]: [ChestShop] Registered InvMenuHandler
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling CmdSnooper v1.2.0
+2018-09-02 [17:18:30] [Server thread/INFO]: [CmdSnooper] Enabled! Ready to snoop >:D
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2018-09-02 [17:18:30] [Server thread/NOTICE]: [EconomyAPI] 
+2018-09-02 [17:18:30] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling EssentialsPE v2.1.0
+2018-09-02 [17:18:30] [Server thread/INFO]: [EssentialsPE] SimpleWarp installed, disabling EssentialsPE warps...
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling InvSee v0.0.1
+2018-09-02 [17:18:30] [Server thread/INFO]: [InvSee] Registered InvMenuHandler
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling Jail v1.3.0
+2018-09-02 [17:18:30] [Server thread/INFO]: [Jail] Loading configurations...
+2018-09-02 [17:18:30] [Server thread/INFO]: [Jail] Loaded with EconomyAPI!
+2018-09-02 [17:18:30] [Server thread/INFO]: [Jail] Checking data compatibility...
+2018-09-02 [17:18:30] [Server thread/INFO]: [Jail] All data is compatible to this version!
+2018-09-02 [17:18:30] [Server thread/INFO]: [Jail] Loaded Successfully!
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling KillChat v1.0.2.MOD
+2018-09-02 [17:18:30] [Server thread/INFO]: [KillChat] Modified KillChat extension for superBAR enabled
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling MultiWorld v1.4.3
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling MysteryCrate v6.4.2
+2018-09-02 [17:18:30] [Server thread/INFO]: [MysteryCrate] Plugin Enabled.
+2018-09-02 [17:18:30] [Server thread/INFO]: Enabling PiggyCustomEnchants v1.2.0
+2018-09-02 [17:18:31] [Server thread/INFO]: [PiggyCustomEnchants] Enabled.
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling PurePerms v1.4.2
+2018-09-02 [17:18:31] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling Repair v1.0.1
+2018-09-02 [17:18:31] [Server thread/INFO]: [Repair] Plugin Enabled.
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling RocketPads v1.0.0
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling RocketPads v1.0.0...
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling Sell v1.2.10.2
+2018-09-02 [17:18:31] [Server thread/INFO]: [Sell] 
+   _____      _ _ 
+  / ____|    | | |
+ | (___   ___| | |
+  \___ \ / _ \ | |
+  ____) |  __/ | |
+ |_____/ \___|_|_|
+ Đã kích hoạt sell làm bởi jack và được fix by nguyên.
+ 		
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling SizePlayer v1.0.3
+2018-09-02 [17:18:31] [Server thread/INFO]: [SizePlayer] SizePlayer plugin is successfully enabled!
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling Slapper v1.4.0
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling TopVoter v3.0.0
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling FactionsPro v1.4.6
+2018-09-02 [17:18:31] [Server thread/INFO]: [FactionsPro] PureChat Integration Enabled
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling PureChat v1.4.11
+2018-09-02 [17:18:31] [Server thread/NOTICE]: [PureChat] FactionsPro >= 1.4 support enabled.
+2018-09-02 [17:18:31] [Server thread/INFO]: Enabling SimpleWarp v4.0.1
+2018-09-02 [17:18:33] [Server thread/INFO]: Starting GS4 status listener
+2018-09-02 [17:18:33] [Server thread/INFO]: Setting query port to 19133
+2018-09-02 [17:18:33] [Server thread/INFO]: Query running on 0.0.0.0:19133
+2018-09-02 [17:18:33] [Server thread/INFO]: Default game type: Survival Mode
+2018-09-02 [17:18:33] [Server thread/INFO]: Done (5.142s)! For help, type "help" or "?"
+2018-09-02 [17:18:33] [Server thread/INFO]: [17:18:33] [Broadcaster] 1st message
+2018-09-02 [17:18:33] [Server thread/INFO]: [superBAR] [superBAR] superBAR loading...
+2018-09-02 [17:18:33] [Server thread/INFO]: [superBAR] [superBAR] EconomyAPI OK!
+2018-09-02 [17:18:33] [Server thread/INFO]: [superBAR] [superBAR] FactionsPro OK!
+2018-09-02 [17:18:33] [Server thread/INFO]: [superBAR] [superBAR] PurePerms OK!
+2018-09-02 [17:18:33] [Server thread/INFO]: [superBAR] [superBAR] KillChat OK!
+2018-09-02 [17:18:33] [Server thread/INFO]: [superBAR] [superBAR] superBAR by FaigerSYS enabled!
+2018-09-02 [17:18:33] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2018-09-02 [17:18:33] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.2.1 was released on Sat Sep 1 12:59:24 2018
+2018-09-02 [17:18:33] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1419/
+2018-09-02 [17:18:33] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1419//artifact/PocketMine-MP.phar
+2018-09-02 [17:18:33] [Server thread/WARNING]: ----- -------------------------- -----
+2018-09-02 [17:18:36] [Server thread/INFO]: Plugins (42): DevTools v1.13.0, AutoClearLagg v2.0.0, BlazinFeed v1.2.1, BuyEnchant v1, CONSOLEChat v1.0.0, FormAPI v1.2.0, KeepInventory v1.0.1, SETVIP v2.3, GuiShop v1.0.0-ALPHA1, SimpleWorldLoader v1.0.0, SlapperRotation v1.2.0, superBAR v2.0.0, TeaSpoon v1.0.0, VanillaEnchantments v3.1.0_ALPHA, VoteReward v3.0.3, AlwaysSpawn v2.2.4, AutoInv v0.0.9, Broadcaster v1.5, ChestShop v4, CmdSnooper v1.2.0, CustomAlerts v2, EconomyAPI v5.7.2, EssentialsPE v2.1.0, InvSee v0.0.1, Jail v1.3.0, KillChat v1.0.2.MOD, MagicWE v0.4.0, MSpawns v2.2, MultiWorld v1.4.3, MysteryCrate v6.4.2, PiggyCustomEnchants v1.2.0, PurePerms v1.4.2, Repair v1.0.1, RocketPads v1.0.0, Sell v1.2.10.2, SizePlayer v1.0.3, Slapper v1.4.0, TopVoter v3.0.0, WorldProtect v2.3.8, FactionsPro v1.4.6, PureChat v1.4.11, SimpleWarp v4.0.1
+2018-09-02 [17:18:48] [Server thread/INFO]: [17:18:48] [Broadcaster] 2nd message
+2018-09-03 [08:06:05] [Server thread/WARNING]: Non-packaged PocketMine-MP installation detected. Consider using a phar in production for better performance.
+2018-09-03 [08:06:05] [Server thread/INFO]: Loading pocketmine.yml...
+2018-09-03 [08:06:05] [Server thread/INFO]: Selected English (eng) as the base language
+2018-09-03 [08:06:05] [Server thread/INFO]: Loading server properties...
+2018-09-03 [08:06:05] [Server thread/INFO]: Starting Minecraft: PE server version v1.5.0
+2018-09-03 [08:06:05] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2018-09-03 [08:06:05] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2018-09-03 [08:06:05] [Server thread/INFO]: Opening server on 0.0.0.0:19133
+2018-09-03 [08:06:06] [Server thread/INFO]: This server is running PocketMine-MP version 3.1.5
+2018-09-03 [08:06:06] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2018-09-03 [08:06:08] [Server thread/INFO]: Loading resource packs...
+2018-09-03 [08:06:08] [Server thread/INFO]: Loading DevTools v1.13.0
+2018-09-03 [08:06:08] [Server thread/INFO]: Enabling DevTools v1.13.0
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading AutoClearLagg v2.0.0
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading BlazinFeed v1.2.1
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading BuyEnchantUI v2
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading BuyEnchant v1
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading CONSOLEChat v1.0.0
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading FormAPI v1.2.0
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading KeepInventory v1.0.1
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading SETVIP v2.3
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading GuiShop v1.0.0-ALPHA1
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading SimpleWorldLoader v1.0.0
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading SlapperRotation v1.2.0
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading superBAR v2.0.0
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading TeaSpoon v1.0.0
+2018-09-03 [08:06:09] [Server thread/INFO]: [TeaSpoon] Loading Resources...
+2018-09-03 [08:06:09] [Server thread/WARNING]: [TeaSpoon] You're using a developer's build of TeaSpoon. For better performance and stability, please get a pre-packaged version here: https://poggit.pmmp.io/ci/CortexPE/TeaSpoon/~
+2018-09-03 [08:06:09] [Server thread/WARNING]: [TeaSpoon] Non-Packaged / Unsupported PocketMine installation detected. Some of TeaSpoon's protective functions are now disabled.
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading VanillaEnchantments v3.1.0_ALPHA
+2018-09-03 [08:06:09] [Server thread/INFO]: [VanillaEnchantments] Outdated config version detected, updating config...
+2018-09-03 [08:06:09] [Server thread/INFO]: [VanillaEnchantments] Loading vanilla enchantments by TheAz928...
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading VoteReward v3.0.3
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading AlwaysSpawn v2.2.4
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading AutoInv v0.0.9
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading Broadcaster v1.5
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading ChestShop v4
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading CmdSnooper v1.2.0
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading CustomAlerts v2
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading EconomyAPI v5.7.2
+2018-09-03 [08:06:09] [Server thread/INFO]: Loading EssentialsPE v2.1.0
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading InvSee v0.0.1
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading Jail v1.3.0
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading KillChat v1.0.2.MOD
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading MagicWE v0.4.0
+2018-09-03 [08:06:10] [Server thread/INFO]: [MagicWE] MagicWE has been loaded!
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading MSpawns v2.2
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading MultiWorld v1.4.3
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading MysteryCrate v6.4.2
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading PiggyCustomEnchants v1.2.0
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading PurePerms v1.4.2
+2018-09-03 [08:06:10] [Server thread/NOTICE]: PurePerms by 64FF00 & ProjectInfinity! #LEET.CC
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-09-03 [08:06:10] [Server thread/INFO]: [PurePerms] Setting default language to 'en'
+2018-09-03 [08:06:10] [Server thread/NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-09-03 [08:06:10] [Server thread/NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading Repair v1.0.1
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading RocketPads v1.0.0
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading Sell v1.2.10.2
+2018-09-03 [08:06:10] [Server thread/INFO]: [Sell] Server đang ép plugin khởi động :))
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading SizePlayer v1.0.3
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading Slapper v1.4.0
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading TopVoter v3.0.0
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading WorldProtect v2.3.8
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading FactionsPro v1.4.6
+2018-09-03 [08:06:10] [Server thread/INFO]: Loading MyPlot v1.3.6
+2018-09-03 [08:06:11] [Server thread/INFO]: Loading PureChat v1.4.11
+2018-09-03 [08:06:11] [Server thread/INFO]: Loading SimpleWarp v4.0.1
+2018-09-03 [08:06:11] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2018-09-03 [08:06:11] [Server thread/INFO]: Enabling TeaSpoon v1.0.0
+2018-09-03 [08:06:11] [Server thread/INFO]: [TeaSpoon] Loading...
+
+MMP""MM""YMM               .M"""bgd                                        
+P'   MM   `7              ,MI    "Y                                        
+     MM  .gP"Ya   ,6"Yb.  `MMb.   `7MMpdMAo.  ,pW"Wq.   ,pW"Wq.`7MMpMMMb.  
+     MM ,M'   Yb 8)   MM    `YMMNq. MM   `Wb 6W'   `Wb 6W'   `Wb MM    MM  
+     MM 8M""""""  ,pm9MM  .     `MM MM    M8 8M     M8 8M     M8 MM    MM  
+     MM YM.    , 8M   MM  Mb     dM MM   ,AP YA.   ,A9 YA.   ,A9 MM    MM  
+   .JMML.`Mbmmd' `Moo9^Yo.P"Ybmmd"  MMbmmd'   `Ybmd9'   `Ybmd9'.JMML  JMML.
+                                    MM                                     
+                                  .JMML.  Lonely Henry sees the sun.
+Copyright (C) CortexPE 2017-2018
+
+2018-09-03 [08:06:12] [Server thread/INFO]: [TeaSpoon] TeaSpoon is distributed under the AGPL License
+2018-09-03 [08:06:12] [Server thread/INFO]: Enabling AlwaysSpawn v2.2.4
+2018-09-03 [08:06:12] [Server thread/INFO]: AlwaysSpawn Enabled!
+2018-09-03 [08:06:12] [Server thread/INFO]: Enabling Broadcaster v1.5
+2018-09-03 [08:06:13] [Server thread/INFO]: Enabling CustomAlerts v2
+2018-09-03 [08:06:13] [Server thread/INFO]: Enabling MagicWE v0.4.0
+2018-09-03 [08:06:13] [Server thread/INFO]: [MagicWE] MagicWE enabled!
+2018-09-03 [08:06:13] [Server thread/INFO]: Enabling MSpawns v2.2
+2018-09-03 [08:06:13] [Server thread/INFO]: Enabling WorldProtect v2.3.8
+2018-09-03 [08:06:13] [Server thread/INFO]: [WorldProtect] Enabled 4 features
+2018-09-03 [08:06:13] [Server thread/INFO]: Enabling MyPlot v1.3.6
+2018-09-03 [08:06:13] [Server thread/INFO]: Preparing level "Hub"
+2018-09-03 [08:06:14] [Server thread/INFO]: Preparing level "teanether"
+2018-09-03 [08:06:14] [Server thread/INFO]: Preparing level "ender"
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling AutoClearLagg v2.0.0
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling BlazinFeed v1.2.1
+2018-09-03 [08:06:14] [Server thread/INFO]: [BlazinFeed] BlazinFeedv1.2.1by iiFlamiinBlaze is enabled
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling BuyEnchantUI v2
+2018-09-03 [08:06:14] [Server thread/NOTICE]: [BuyEnchantUI] Plugin Loading...
+2018-09-03 [08:06:14] [Server thread/INFO]: [BuyEnchantUI] > Buy Enchant : Enable
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling BuyEnchant v1
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling CONSOLEChat v1.0.0
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling FormAPI v1.2.0
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling KeepInventory v1.0.1
+2018-09-03 [08:06:14] [Server thread/INFO]: PiZYDS-KeepInventory by PillarsZhang.
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling SETVIP v2.3
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling GuiShop v1.0.0-ALPHA1
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling SimpleWorldLoader v1.0.0
+2018-09-03 [08:06:14] [Server thread/NOTICE]: [SimpleWorldLoader] Loading Worlds: world, world1, world2
+2018-09-03 [08:06:14] [Server thread/NOTICE]: Level "world" not found
+2018-09-03 [08:06:14] [Server thread/NOTICE]: Level "world1" not found
+2018-09-03 [08:06:14] [Server thread/NOTICE]: Level "world2" not found
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling SlapperRotation v1.2.0
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling superBAR v2.0.0
+2018-09-03 [08:06:14] [Server thread/INFO]: [superBAR] superBAR will be enabled after the complete server load
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling VanillaEnchantments v3.1.0_ALPHA
+2018-09-03 [08:06:14] [Server thread/INFO]: [VanillaEnchantments] Vanilla enchantments were successfully registered
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling VoteReward v3.0.3
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling AutoInv v0.0.9
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling ChestShop v4
+2018-09-03 [08:06:14] [Server thread/INFO]: [ChestShop] Registered InvMenuHandler
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling CmdSnooper v1.2.0
+2018-09-03 [08:06:14] [Server thread/INFO]: [CmdSnooper] Enabled! Ready to snoop >:D
+2018-09-03 [08:06:14] [Server thread/INFO]: Enabling EconomyAPI v5.7.2
+2018-09-03 [08:06:14] [Server thread/NOTICE]: [EconomyAPI] 
+2018-09-03 [08:06:14] [Server thread/NOTICE]: [EconomyAPI] Database provider was set to: Yaml
+2018-09-03 [08:06:15] [Server thread/INFO]: Enabling EssentialsPE v2.1.0
+2018-09-03 [08:06:15] [Server thread/INFO]: [EssentialsPE] SimpleWarp installed, disabling EssentialsPE warps...
+2018-09-03 [08:06:15] [Server thread/INFO]: Enabling InvSee v0.0.1
+2018-09-03 [08:06:15] [Server thread/INFO]: [InvSee] Registered InvMenuHandler
+2018-09-03 [08:06:15] [Server thread/INFO]: Enabling Jail v1.3.0
+2018-09-03 [08:06:15] [Server thread/INFO]: [Jail] Loading configurations...
+2018-09-03 [08:06:16] [Server thread/INFO]: [Jail] Loaded with EconomyAPI!
+2018-09-03 [08:06:16] [Server thread/INFO]: [Jail] Checking data compatibility...
+2018-09-03 [08:06:16] [Server thread/INFO]: [Jail] All data is compatible to this version!
+2018-09-03 [08:06:16] [Server thread/INFO]: [Jail] Loaded Successfully!
+2018-09-03 [08:06:16] [Server thread/INFO]: Enabling KillChat v1.0.2.MOD
+2018-09-03 [08:06:16] [Server thread/INFO]: [KillChat] Modified KillChat extension for superBAR enabled
+2018-09-03 [08:06:16] [Server thread/INFO]: Enabling MultiWorld v1.4.3
+2018-09-03 [08:06:16] [Server thread/INFO]: Enabling MysteryCrate v6.4.2
+2018-09-03 [08:06:16] [Server thread/INFO]: [MysteryCrate] Plugin Enabled.
+2018-09-03 [08:06:16] [Server thread/INFO]: Enabling PiggyCustomEnchants v1.2.0
+2018-09-03 [08:06:16] [Server thread/INFO]: [PiggyCustomEnchants] Enabled.
+2018-09-03 [08:06:16] [Server thread/INFO]: Enabling PurePerms v1.4.2
+2018-09-03 [08:06:17] [Server thread/NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling Repair v1.0.1
+2018-09-03 [08:06:17] [Server thread/INFO]: [Repair] Plugin Enabled.
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling RocketPads v1.0.0
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling RocketPads v1.0.0...
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling Sell v1.2.10.2
+2018-09-03 [08:06:17] [Server thread/INFO]: [Sell] 
+   _____      _ _ 
+  / ____|    | | |
+ | (___   ___| | |
+  \___ \ / _ \ | |
+  ____) |  __/ | |
+ |_____/ \___|_|_|
+ Đã kích hoạt sell làm bởi jack và được fix by nguyên.
+ 		
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling SizePlayer v1.0.3
+2018-09-03 [08:06:17] [Server thread/INFO]: [SizePlayer] SizePlayer plugin is successfully enabled!
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling Slapper v1.4.0
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling TopVoter v3.0.0
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling FactionsPro v1.4.6
+2018-09-03 [08:06:17] [Server thread/INFO]: [FactionsPro] PureChat Integration Enabled
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling PureChat v1.4.11
+2018-09-03 [08:06:17] [Server thread/NOTICE]: [PureChat] FactionsPro >= 1.4 support enabled.
+2018-09-03 [08:06:17] [Server thread/INFO]: Enabling SimpleWarp v4.0.1
+2018-09-03 [08:06:19] [Server thread/INFO]: Starting GS4 status listener
+2018-09-03 [08:06:19] [Server thread/INFO]: Setting query port to 19133
+2018-09-03 [08:06:19] [Server thread/INFO]: Query running on 0.0.0.0:19133
+2018-09-03 [08:06:19] [Server thread/INFO]: Default game type: Survival Mode
+2018-09-03 [08:06:19] [Server thread/INFO]: Done (14.225s)! For help, type "help" or "?"
+2018-09-03 [08:06:19] [Server thread/INFO]: [08:06:19] [Broadcaster] 1st message
+2018-09-03 [08:06:19] [Server thread/INFO]: [superBAR] [superBAR] superBAR loading...
+2018-09-03 [08:06:19] [Server thread/INFO]: [superBAR] [superBAR] EconomyAPI OK!
+2018-09-03 [08:06:19] [Server thread/INFO]: [superBAR] [superBAR] FactionsPro OK!
+2018-09-03 [08:06:19] [Server thread/INFO]: [superBAR] [superBAR] PurePerms OK!
+2018-09-03 [08:06:19] [Server thread/INFO]: [superBAR] [superBAR] KillChat OK!
+2018-09-03 [08:06:19] [Server thread/INFO]: [superBAR] [superBAR] superBAR by FaigerSYS enabled!
+2018-09-03 [08:06:19] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2018-09-03 [08:06:19] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.2.1 was released on Sat Sep 1 12:59:24 2018
+2018-09-03 [08:06:19] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1419/
+2018-09-03 [08:06:19] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1419//artifact/PocketMine-MP.phar
+2018-09-03 [08:06:19] [Server thread/WARNING]: ----- -------------------------- -----
+2018-09-03 [08:06:25] [Server thread/INFO]: [Server] becui
+2018-09-03 [08:06:29] [Server thread/INFO]: This command can't be used here. Sorry!
+2018-09-03 [08:06:34] [Server thread/INFO]: [08:06:34] [Broadcaster] 2nd message
+2018-09-03 [08:06:49] [Server thread/INFO]: [08:06:49] [Broadcaster] 3rd message
+2018-09-03 [08:07:04] [Server thread/INFO]: [08:07:04] [Broadcaster] 1st message
+2018-09-03 [08:07:19] [Server thread/INFO]: [08:07:19] [Broadcaster] 2nd message
+2018-09-03 [08:07:26] [Server thread/NOTICE]: Player data not found for "casemongamer", creating new profile
+2018-09-03 [08:07:28] [Server thread/INFO]: CaseMonGamer[/113.189.15.102:60596] logged in with entity id 2 at (Hub, 256, 70, 256)
+2018-09-03 [08:07:36] [Server thread/INFO]: [08:07:36] [Broadcaster] 3rd message
+2018-09-03 [08:07:39] [Server thread/INFO]: [08:07:39] Welcome to your server! [1/50]
+2018-09-03 [08:07:47] [Server thread/INFO]: [CmdSnooper] CaseMonGamer> /becui
+2018-09-03 [08:08:00] [Server thread/WARNING]: Can't keep up! Is the server overloaded?
+2018-09-03 [08:08:00] [Server thread/INFO]: [CmdSnooper] CaseMonGamer> /becui
+2018-09-03 [08:08:16] [Server thread/WARNING]: Can't keep up! Is the server overloaded?
+2018-09-03 [08:08:16] [Server thread/INFO]: [08:08:16] [Broadcaster] 1st message
+2018-09-03 [08:08:17] [Server thread/INFO]: CaseMonGamer[/113.189.15.102:60596] logged out due to timeout
+2018-09-03 [08:08:31] [Server thread/INFO]: [08:08:31] [Broadcaster] 2nd message

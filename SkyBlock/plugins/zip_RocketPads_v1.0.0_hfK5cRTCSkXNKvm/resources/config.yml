@@ -1,0 +1,13 @@
+#Configuration file for RocketPads v1.0.0
+version: 1.0.0
+#Do not edit the version string, it is used for internal purposes
+plugin:
+ autoUpdate: true
+ #Set to true to enable automatic overwriting of this file when the plugin is updated
+pad:
+ baseValue: 0.6
+ #Sets how far off the ground the player will launch, 0.5 to 1.8 recommended
+ launchDistance: 10
+ #Sets how far a player is launched when they step on a rocket pad
+ blockId:
+ - "152:0" #Redstone Block

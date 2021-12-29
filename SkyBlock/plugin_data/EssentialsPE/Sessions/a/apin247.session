@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "flying": [
+            -1601,
+            214,
+            85,
+            "SkyBlock",
+            294.5101089477539,
+            85.76751708984375
+        ],
+        "bed": [
+            446,
+            70,
+            464,
+            "SkyBlock",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "\u00a7lApin",
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

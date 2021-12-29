@@ -1,0 +1,16 @@
+#Positions of the floating texts
+Positions:
+    - world: Hub
+      x: -101
+      "y": 74
+      z: 126
+#API-Key of your server provided by minecraftpocket-servers.com
+API-Key: "W5xnaiSwJEIlaqlxFUXAOaorFmCAdIWzv4g"
+#Amount of voters who shall be shown (Max: 500)
+Amount: 10
+#Update interval of the query to the server in seconds
+Update-Interval: 180
+#Header of the floating text particle
+Header: "§6Các dân vote trong tháng!"
+#Text for every row after the headerd{votes}"
+Text: "§b{player}: §4{votes}"

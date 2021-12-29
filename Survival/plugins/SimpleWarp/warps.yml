@@ -1,0 +1,23 @@
+---
+sb:
+  x: 272.838300
+  "y": 70.000000
+  z: 274.606200
+  level: SkyBlock
+  public: true
+  metadata: []
+pvp:
+  x: 203.000000
+  "y": 6.000000
+  z: 448.000000
+  level: pvp
+  public: true
+  metadata: []
+pk:
+  x: 269.552900
+  "y": 56.000000
+  z: 250.630700
+  level: parkour
+  public: true
+  metadata: []
+...

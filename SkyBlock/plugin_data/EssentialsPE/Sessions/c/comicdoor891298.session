@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "npc": [
+            1401,
+            69,
+            -1780,
+            "SkyBlock",
+            283.03421783447266,
+            35.468048095703125
+        ],
+        "npcsellall": [
+            1403,
+            69,
+            -1780,
+            "SkyBlock",
+            215.03419494628906,
+            62.130645751953125
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

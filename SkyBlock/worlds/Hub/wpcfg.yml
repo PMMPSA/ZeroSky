@@ -1,0 +1,30 @@
+---
+protect: lock
+banitem:
+  261: Bow
+  8: Water
+  9: Still Water
+  10: Lava
+  11: Still Lava
+  259: Flint and Steel
+  369: Blaze Rod
+  383: Spawn Egg
+  325: Bucket
+  385: Fire Charge
+  373: Potion
+  438: Splash Potion
+  441: Lingering Water Bottle
+  425: Armor Stand
+  293: Diamond Hoe
+  294: Golden Hoe
+  292: Iron Hoe
+  291: Stone Hoe
+  290: Wooden Hoe
+  277: Diamond Shovel
+  284: Gold Shovel
+  256: Iron Shovel
+  273: Stone Shovel
+  263: Coal
+  269: Wooden Shovel
+pvp: false
+...

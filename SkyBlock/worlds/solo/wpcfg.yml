@@ -1,0 +1,11 @@
+---
+banitem:
+  8: Water
+  9: Still Water
+  10: Lava
+  11: Still Lava
+  383: Spawn Egg
+  259: Flint and Steel
+  325: Bucket
+protect: lock
+...

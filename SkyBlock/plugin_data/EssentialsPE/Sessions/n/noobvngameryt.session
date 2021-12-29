@@ -1,0 +1,46 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "bed": [
+            -2311,
+            77,
+            -436,
+            "SkyBlock",
+            0,
+            0
+        ],
+        "1": [
+            -1780,
+            69,
+            836,
+            "SkyBlock",
+            111.91470336914062,
+            20.565093994140625
+        ],
+        "pvp": [
+            184,
+            18,
+            429,
+            "solo",
+            302.8468933105469,
+            23.105514526367188
+        ],
+        "2": [
+            -2341,
+            69,
+            -473,
+            "SkyBlock",
+            304.8401184082031,
+            19.7703857421875
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

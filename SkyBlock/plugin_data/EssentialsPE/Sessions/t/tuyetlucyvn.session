@@ -1,0 +1,46 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "hk": [
+            843,
+            69,
+            -1029,
+            "SkyBlock",
+            108.80316162109375,
+            48.91972351074219
+        ],
+        "2": [
+            1399,
+            69,
+            -657,
+            "SkyBlock",
+            116.70263671875,
+            74.97650146484375
+        ],
+        "drop": [
+            275,
+            67,
+            31,
+            "SkyBlock",
+            255.55287170410156,
+            33.64837646484375
+        ],
+        "drop2": [
+            118,
+            64,
+            79,
+            "SkyBlock",
+            74.78584289550781,
+            15.780593872070312
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

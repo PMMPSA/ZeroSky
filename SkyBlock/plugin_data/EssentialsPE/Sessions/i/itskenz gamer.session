@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "ender": [
+            838,
+            69,
+            836,
+            "SkyBlock",
+            169.71542358398438,
+            21.62567138671875
+        ],
+        "ngan": [
+            652,
+            69,
+            2712,
+            "SkyBlock",
+            48.073577880859375,
+            20.19940185546875
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

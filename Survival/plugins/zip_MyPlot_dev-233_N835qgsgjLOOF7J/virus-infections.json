@@ -1,0 +1,1 @@
+{"MyPlot\\libs\\spoondetector":{"name":"SpoonDetector","version":"0.0.0","antigen":"spoondetector","api":["2.0.0","3.0.0-ALPHA1","3.0.0-ALPHA2","3.0.0-ALPHA3","3.0.0-ALPHA4","3.0.0-ALPHA5"],"php":[7],"author":"Falk","build":{"builder":"PoggitCI\/1.0-beta poggit-virion\/1.0","buildTime":"2017-05-30T23:37:02+0000","poggitBuildId":23779,"projectBuildNumber":4,"class":"Dev"}}}

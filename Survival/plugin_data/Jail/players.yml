@@ -1,0 +1,9 @@
+---
+casemongamer:
+  jailed: false
+  gamemode: 0
+  VoteForJail:
+    votes: 0
+    votedBy: []
+  uuid: b0a8df2e-a027-3790-9d6f-cf99b9094c21
+...

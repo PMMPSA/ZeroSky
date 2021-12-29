@@ -1,0 +1,206 @@
+Changelog of Jail
+
+1.3.0
+- Auto Update Checker won't be initiated anymore
+- Plugin now supports PocketMine API 3.1.0
+- Removed permission 'jail.override.restrictions'
+
+1.2.1
+- Fixed Bail sign not destroying automatically upon wrong placement
+- Removed duplicated software icon file in the source code itself
+- Improved accuracy of update fetcher's version comparing techniques
+- Fixed duplication of unjail message when players successfully unjail by bail
+- Updated Github URL at the update checker
+- Caution: This update MAY NOT be COMPATIBLE with the latest PocketMine BETA versions
+
+1.2.0 - 11/AUG/2017
+- Update fetcher now shows update changes of the latest version for Poggit or Github
+- Update fetcher now shows download link of the latest version for Poggit or Github
+- Update fetcher now has its ability to show info of both channels simultaneously
+- Fixed results of update fetcher not showing correctly in past versions
+- Fixed some of the users continued to experience problem upon start-up #28
+- SetJail command now gets more complex, with more per jail settings available
+- Fixed 'jailed' and 'tpjail' commands have their return statement missing #31 #32
+- Bail availability now works for individual jails (/setjail <jail> bail=true/false)
+- Visit availability now works for individual jails (/setjail <jail> visit=true/false)
+- Fixed display issues and plugin compatibility issues of Bail command #33
+- Added data compatibility checker and updater, functions at start-up
+- Fixed capitalized player names not recognizable by the timer #34
+- The animated emoji on the timer now shows on both Bail enabled and disabled jails
+- Fixed Votes system malfunction due to data storing issues #30
+- Cancelled plans for individual jail's allow-escape-area status, updated version
+
+1.1.5 - 31/JUL/2017
+- Fixed language initialization error of missing file (Critical fix)
+- Fixed "listener.player.not.allowed.leave" message being overlapped
+- Emoji of prisoner UI when Bail is disabled is now animated
+- Added 'allow-visit' option, allows/disallows players to visit jails
+
+1.1.4 - 30/JUL/2017
+- Updated API version, compatible with the current latest PocketMine software
+- Fixed old configuration files being deleted when server restarts
+- Fixed configuration updater not working perfectly upon plugin installation
+- Fixed errors popping out upon mine set and player quit
+- Fixed all cmds & tasks having wrong declaration due to updated PM API
+- Improved stability of version update checker
+- A more professional look of the README file :D
+
+1.1.3 - 19/JUL/2017
+- Updated Russian language file
+
+1.1.2 - 07/MAY/2017
+- Removed auto installer due to its violation of Poggit's submission rules.
+- Added support for checking latest version from Poggit's repository.
+- Fixed console spamming when PlayerMoveEvent is called.
+- Fixed game mode not being set correctly when prisoners join the server.
+
+1.1.1 - 06/MAY/2017
+- Changed the way time data is updated and processed every second, reduces lags
+
+1.0.2
+- Fixed prisoners able to break blocks when mine is set in that jail #22
+- Russian is now fully translated. #23
+
+1.0.1- 19/MAR/2017
+- Prisoners in deleted jails are now assigned automatically to random jails #21
+- Offline unjailed players are now teleported back to spawn when they join #20
+- Offline unjailed players' inventory and game mode are now recovered upon rejoining #20
+- SellHand signs now show money-per-block to prisoner
+- Added permission node 'jail.showInOutMessage' (detail pls refer to Jail's Wiki)
+- Notification now shows upon entering/leaving a jail's 3D area
+- Fixed incorrect message output of '/jailmine set' command
+- Fixed configuration file updater malfunction
+
+1.0.0 - 04/MAR/2017
+- Added informational commands for admins to obtain data from the plugin
+- Prisoners' force jail TP now only occurs upon Δs(displacement change)
+- Item dropping by prisoners can now be disabled in config
+- Players w/ perm 'jail.override.restrictions' can ignore all jail restrictions
+- Fixed config key 'check-UUID' being ignored by the code
+Technical updates:
+- Old config file(s) is now saved with old version name
+- 'offline-time-counting' now defaults as false
+New commands:
+- /prisonerinfo <player_name>
+- /jailinfo <jail>
+
+Alpha0.3.4 - 19/FEB/2017
+- Fixed error when allow-chat=true & allow-command=false #18
+- Fixed all errors caused by name case detections #16 #18 #15
+
+Alpha0.3.3 - 15/FEB/2017
+- Fixed error in console when a jailed player joins
+- Fixed BlockPlacer not resetting the whole mine
+- Fixed non-jailed players get kicked upon the second join
+
+Alpha0.3.2 - 11/FEB/2017
+- Fixed player-UUIDs checked with incorrect datatype
+
+Alpha0.3.1 - 11/FEB/2017
+- API updated, should support the latest PocketMine build
+- Fixed error message popping when a player who's jailed forever joins
+- Fixed player-UUID incorrectly saved
+
+Alpha0.3.0 - 20/JAN/2017
+- Implemented Mining-For-Money-For-Bailing feature! (Tutorial soon)
+- Fixed newly joined players all being jailed bug #10
+- Fixed console popping errors of isJailed()-error bug #10
+- Added support for EconomyPlus (Prisoner bail function)
+- Added support for individual jail's bail status(Allow bailing or not)
+- Default time unit is now customizable in configuration file
+- Implemented sign support: 1st line: [Bail] [ResetMine] [SellHand]
+- Fixed some messages not converted from their keys
+- Prisoners' game mode will be set to 0 instead of 2
+- Added 'jail.modify.bypass' perm-node (detail in plugin.yml)
+- Fixed block-break detection (warning broadcasting issue)
+- Fixed player-escape-warning overlapping the timer GUI
+- Implemented prisoner inventory saver
+- Fixed a word misspell in lang_zh.json
+- Database support! (Jails.yml data backup)
+Technical updates:
+- Code cleanup - Removed unused code
+- Added an interface class for Jail's API
+- Bumped to PocketMine API 3.0.0-ALPHA1 (Older APIs compatible)
+- Different sign types are checked with individual listeners
+- Signs positioning technology enhancement
+New commands:
+- /jailmine set|remove|check|reset <jail>
+- /jailsellhand
+- /jailresetmine
+
+Alpha0.2.3 - 17/DEC/2016
+- Fixed '/votejail' command not working for normal players
+- Added 'jail.uuidcheck.bypass' permission
+
+Alpha0.2.2 - 17/DEC/2016
+- Added an option to disable timer GUI on prisoners in config
+- Updated README.md for Github
+- Added '/votejail' cmd, allowing players to vote someone who behaves badly
+- Fixed loading message of compatible economy plugin
+- Fixed /tpjail command and tpJail() not working
+- Code cleanup
+- Added UUID Checker
+
+Alpha0.2.1 - 27/OCT/2016
+- Added Russian #5
+- Redefined language keys
+- Added more translatable messages
+
+Alpha0.2 - 13/OCT/2016
+- Added more languages #2
+- Various bug fixes
+
+Alpha0.1.1 - 08/AUG/2016
+- Added some missing PHPDoc
+- Removed unused code
+- Resolved mobile incompatibility to update checker
+- Resolved internet connectivity issue to update checker
+
+Alpha0.1 - 01/AUG/2016
+- Hugely improved and enhanced auto update checker/installer (config)
+- Implemented bail support for PocketMoney
+- Added an option to disable bail
+- Fixed some typos
+- Implemented bail money requirement on prisoner's GUI
+- Fixed server crash when player is jailed infinitely
+
+Pre-alpha0.7 - 31/JUL/2016
+- Added basic version update fetcher
+
+Pre-alpha0.6 - 31/JUL/2016
+- Fixed license text incorrect plugin name
+- Added op being jailed prevention (Can be deactivated in config)
+- Added basic bail feature, currently only supports EconomyS (/bail)
+
+Pre-alpha0.5 - NO RECORD
+- Fixed infinite time jailing pops errors on console screen
+- Fixed players infinite time still receive time penalty
+
+Pre-alpha0.4 - NO RECORD
+- Fixed auto timer unjailing not taking effect (CRITICAL)
+
+Pre-alpha0.3 - NO RECORD
+- Fixed error code appearing when new players join
+- Fixed some missing PHP Docs of API
+- Fixed game mode issue while offline unjailed players join
+- Added the ability to jail players forever until /unjail command
+- Added penalty system, apply to prisoners if they try to destroy the jail
+
+Pre-alpha0.2 - NO RECORD
+- Fixed jailExists() detection error when player joins
+- Fixed some displays not shown clearly
+- Added switchjail command
+- Added offline-time-counting option in configuration
+- Fixed some game mode issues
+- Removed interaction restrictor
+- Fixed bug of normal players able to modify jail area
+
+Pre-alpha0.1 - NO RECORD
+- Multiworld support
+- Timer support
+- Basic jailing system with reasons
+- Multiple jails support
+- Configuration support (Restrictions of prisoners)
+- Jail area protection
+- Beautifully animated screen of prisoner, showing timer and info
+- Setting up jail using only a command and steps following

@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DarkWav/SAC
+branches:
+- master
+projects:
+  ShadowAntiCheat:
+    path: ""
+    icon: meta/poggit-icon.png
+...

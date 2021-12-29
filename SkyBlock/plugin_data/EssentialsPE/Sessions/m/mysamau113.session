@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "mysamau113": [
+            313,
+            69,
+            539,
+            "SkyBlock",
+            1.1008758544921875,
+            28.152679443359375
+        ],
+        "bed": [
+            277,
+            69,
+            446,
+            "SkyBlock",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

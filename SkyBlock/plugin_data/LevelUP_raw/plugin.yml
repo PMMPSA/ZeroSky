@@ -1,0 +1,32 @@
+name: PVPlevelRPG
+main: LevelMain\Main
+description: Plugin for server that want an Level systeme
+version: 8.2
+api: 3.0.0
+commands:
+ level:
+  description: Xem thông tin về Level của mình
+  permission: lvl.command
+ addexp:
+  description: Thêm số ĐKN bạn muốn
+  permission: addexp.command
+ ru:
+  description: Lên cấp chính
+  permission: ru.command
+ levelreload:
+  description: reload config
+  permission: lr.command
+ helpsv:
+  description: see the helpsv
+  permission: helpsv.command
+permissions:
+ lvl.command:
+  default: true
+ addexp.command:
+  default: op
+ ru.command:
+  default: true
+ lr.command:
+  default: op
+ helpsv.command:
+  default: true

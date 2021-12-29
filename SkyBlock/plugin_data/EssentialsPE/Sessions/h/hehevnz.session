@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "sub": [
+            284,
+            70,
+            459,
+            "SkyBlock",
+            356.92222595214844,
+            76.89028930664062
+        ],
+        "thit": [
+            256,
+            67,
+            59,
+            "SkyBlock",
+            152.03936767578125,
+            14.567459106445312
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

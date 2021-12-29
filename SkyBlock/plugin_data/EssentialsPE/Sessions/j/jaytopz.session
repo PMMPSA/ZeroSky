@@ -1,0 +1,46 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "tranggaming": [
+            439,
+            69,
+            1019,
+            "SkyBlock",
+            297.2130889892578,
+            16.674697875976562
+        ],
+        "jacktnt": [
+            -656,
+            69,
+            1775,
+            "SkyBlock",
+            281.3589553833008,
+            2.0673370361328125
+        ],
+        "jack": [
+            -658,
+            69,
+            1770,
+            "SkyBlock",
+            338.8553466796875,
+            16.679718017578125
+        ],
+        "spawn": [
+            -1032,
+            75,
+            -474,
+            "SkyBlock",
+            289.82263946533203,
+            52.821136474609375
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

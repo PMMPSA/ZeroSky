@@ -1,0 +1,18 @@
+---
+###################
+#   Plugin Buyec  #
+###################
+
+# Money Level Enchant
+Level1: 7000
+Level2: 14000
+Level3: 21000
+Level4: 28000
+Level5: 35000
+level6: 42000
+level7: 49000
+#Message Enchant Successfully 
+succesfully: "§e[§cENCHANT§e]§a Mua Enchant Thành Công"
+#Message Enchant Error
+error: "§e[§cENCHANT§e]§c Không đủ tiền"
+...

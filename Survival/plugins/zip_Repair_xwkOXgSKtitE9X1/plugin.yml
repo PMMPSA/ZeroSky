@@ -1,0 +1,28 @@
+---
+name: Repair
+main: JackMD\Repair\Main
+version: 1.0.1
+api:
+- 3.0.0
+author: JackMD
+website: https://github.com/JackMD/Repair
+permissions:
+  repair.command.use:
+    default: false
+  repair.command.use.hand:
+    default: false
+  repair.command.use.all:
+    default: false
+  repair.sign.create:
+    default: op
+  repair.sign.break:
+    default: op
+  repair.sign.place:
+    default: op
+  repair.sign.use:
+    default: op
+  repair.sign.use.hand:
+    default: op
+  repair.sign.use.all:
+    default: op
+...

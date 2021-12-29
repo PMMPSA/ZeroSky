@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "lobby": [
+            299,
+            48,
+            305,
+            "lobby",
+            270.3780746459961,
+            79.51239013671875
+        ],
+        "event": [
+            651,
+            69,
+            88,
+            "SkyBlock",
+            90.50570678710938,
+            7.6634063720703125
+        ],
+        "test": [
+            16,
+            4,
+            -397,
+            "TestBuild",
+            20.0679931640625,
+            -4.5714874267578125
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "\u30df\u2022\u00bbRoyal\u00ab\u2022\u5f61",
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "bed": [
+            -2308,
+            77,
+            -436,
+            "SkyBlock",
+            0,
+            0
+        ],
+        "pvp": [
+            187,
+            7,
+            447,
+            "solo",
+            271.82261657714844,
+            13.368621826171875
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": "VampireKimAnh",
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

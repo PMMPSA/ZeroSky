@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "thebestzerosb": [
+            1774,
+            69,
+            1588,
+            "SkyBlock",
+            273.12569427490234,
+            86.55801391601562
+        ],
+        "teamzero": [
+            1770,
+            72,
+            1589,
+            "SkyBlock",
+            227.4468536376953,
+            90
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

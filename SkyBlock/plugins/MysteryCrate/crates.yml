@@ -1,0 +1,285 @@
+---
+crates:
+# HUGE THANKS TO @DaPigGuy and his PiggyCrates plugin for making multiple crates possible.
+#
+# Disclaimer: Some part of this code has been taken from @DaPigGuy's plugin,
+# I have asked his permission to use his code as a reference before hand as to avoid
+# unnecessary complains and/or contradictions.
+#
+# To reward the player with a command make sure that the meta of the reward is same as
+# commandMeta set in config.yml or else the command won't work.
+#
+# Example on how to set the config.
+# Note: Please use tabs instead of spaces.
+#-------------------------------------------------------------------------------------------------------------------------------
+# example:               | Set the name of the crate.
+#  drops:                | List the items that can be received from the crate.
+#   - name: "G-Helmet"   | Custom name for the item. Use "§" for adding colors.
+#     id: 1              | ID of the reward.
+#     meta: 0            | Meta or Damage value of the Item.
+#     amount: 1          | The amount of Item that player receives.
+#     enchantments:      | Set enchants for items here. Both VanillaEnchantments and PiggyCustomEnchants are supported.
+#       protection:      | Name of enchant you wish to apply.
+#         level: 3       | The level for enchant.
+#       unbreaking:      | You can set multiple enchants as long as they are registered.
+#         level: 2       | NOTE: If you donot want enchants simply remove the enchantments heading.
+#     lore: "USE ME"     | Add a custom lore to the reward. Use "\n" for next line.
+#     command: "say hi"  | Add a command that will be executed when player wins a reward. Use "%PLAYER%" to insert player name.
+#  block: "911:0"        | Set the block ID you want the crate to represent. Placing a chest on it will activate the crate.
+# ------------------------------------------------------------------------------------------------------------------------------
+  kiemthan:
+    drops:
+      - name: "§a§lKiếm huyền thoại§r"
+        id: 276
+        meta: 0
+        amount: 1
+        enchantments:
+          vampire:
+            level: 1
+          Sharpness:
+            level: 5
+          unbreaking:
+            level: 10000
+          wither:
+            level: 1
+          shockwave:
+            level: 1
+          autorepair:
+            level: 5
+          lightning:
+            level: 1
+        lore: "Kiếm mạnh nhất.Có khả năng hút máu :_))"
+      - name: "Cooked Chicken"
+        id: 366
+        meta: 0
+        amount: 16
+      - name: "rác 1"
+        id: 2
+        meta: 0
+        amount: 64
+      - name: "rác 2"
+        id: 3
+        meta: 0
+        amount: 64
+      - name: "rác 3"
+        id: 18
+        meta: 0
+        amount: 64
+      - name: "rác 4"
+        id: 20
+        meta: 0
+        amount: 64        
+    block: "22:0"
+  non:
+    drops:
+      - name: "Nón Huyền Thoại"
+        id: 310
+        meta: 0
+        amount: 1
+        enchantments:
+          antiknockback:
+            level: 1
+          unbreaking:
+            level: 10000
+          thorns:
+            level: 50
+          heavy:
+            level: 5
+          autorepair:
+            level: 5
+          protection:
+            level: 10000
+          tank:
+            level: 5
+          aqua_affinity:
+            level: 50
+          fire_protection:
+            level: 10
+          respiration:
+            level: 10
+        lore: "nếu full bộ giáp giúp bạn chống bật lùi,tăng giáp cao,hồi máu nhanh hơn,phản dame"
+      - name: "Iron Ingot"
+        id: 265
+        meta: 0
+        amount: 10
+      - name: "Cooked Chicken"
+        id: 366
+        meta: 0
+        amount: 16
+      - name: "rác 1"
+        id: 2
+        meta: 0
+        amount: 64
+      - name: "rác 2"
+        id: 3
+        meta: 0
+        amount: 64
+      - name: "rác 3"
+        id: 18
+        meta: 0
+        amount: 64
+      - name: "rác 4"
+        id: 20
+        meta: 0
+        amount: 64  
+    block: "42:0"
+  aogiap:
+    drops:
+      - name: "Áo giáp huyền thoại"
+        id: 311
+        meta: 0
+        amount: 1
+        enchantments:
+          heavy:
+            level: 2
+          tank:
+            level: 5
+          antiknockback:
+            level: 1
+          protection:
+            level: 10000
+          autorepair:
+            level: 5
+          unbreaking:
+            level: 10000
+          projectile_protection:
+            level: 1000
+          aqua_affinity:
+            level: 50
+          fire_protection:
+            level: 10
+          respiration:
+            level: 10
+          thorns:
+            level: 50
+        lore: "nếu full bộ giáp giúp bạn chống bật lùi,tăng giáp cao,hồi máu nhanh hơn,phản dame"
+      - name: "Cooked Chicken"
+        id: 366
+        meta: 0
+        amount: 16
+      - name: "rác 1"
+        id: 2
+        meta: 0
+        amount: 64
+      - name: "rác 2"
+        id: 3
+        meta: 0
+        amount: 64
+      - name: "rác 3"
+        id: 18
+        meta: 0
+        amount: 64
+      - name: "rác 4"
+        id: 20
+        meta: 0
+        amount: 64  
+      - name: "Gold Ingot"
+        id: 266
+        meta: 0
+        amount: 10
+      - name: "Oak Wood"
+        id: 17
+        meta: 0
+        amount: 64
+    block: "57:0"
+  quan:
+    drops:
+      - name: "Quần huyền thoại"
+        id: 312
+        meta: 0
+        amount: 1
+        enchantments:
+          heavy:
+            level: 2
+          tank:
+            level: 1
+          antiknockback:
+            level: 1
+          protection:
+            level: 10000
+          autorepair:
+            level: 5
+          unbreaking:
+            level: 10000
+          thorns:
+            level: 50
+        lore: "nếu full bộ giáp giúp bạn chống bật lùi,tăng giáp cao,hồi máu nhanh hơn,phản dame"
+      - name: "Cooked Chicken"
+        id: 366
+        meta: 0
+        amount: 16
+      - name: "rác 1"
+        id: 2
+        meta: 0
+        amount: 64
+      - name: "rác 2"
+        id: 3
+        meta: 0
+        amount: 64
+      - name: "rác 3"
+        id: 18
+        meta: 0
+        amount: 64
+      - name: "rác 4"
+        id: 20
+        meta: 0
+        amount: 64  
+      - name: "Emerald"
+        id: 388
+        meta: 0
+        amount: 16
+      - name: "Golden Apple"
+        id: 322
+        meta: 0
+        amount: 16
+    block: "7:0"
+  giay:
+    drops:
+      - name: "Giày huyền thoại"
+        id: 313
+        meta: 0
+        amount: 1
+        enchantments:
+          heavy:
+            level: 2
+          tank:
+            level: 1
+          antiknockback:
+            level: 1
+          protection:
+            level: 10000
+          autorepair:
+            level: 5
+          unbreaking:
+            level: 10000
+          magma_walker:
+            level: 1
+          thorns:
+            level: 50
+        lore: "nếu full bộ giáp giúp bạn chống bật lùi,tăng giáp cao,hồi máu nhanh hơn,phản dame!"
+      - name: "Enchanted Apple"
+        id: 466
+        meta: 0
+        amount: 16
+      - name: "Cooked Chicken"
+        id: 366
+        meta: 0
+        amount: 16
+      - name: "rác 1"
+        id: 2
+        meta: 0
+        amount: 64
+      - name: "rác 2"
+        id: 3
+        meta: 0
+        amount: 64
+      - name: "rác 3"
+        id: 18
+        meta: 0
+        amount: 64
+      - name: "rác 4"
+        id: 20
+        meta: 0
+        amount: 64  
+    block: "133:0"
+...

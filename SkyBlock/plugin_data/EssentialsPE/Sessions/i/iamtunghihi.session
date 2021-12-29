@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "nether": [
+            381,
+            49,
+            256,
+            "teanether",
+            92.9251708984375,
+            67.25984191894531
+        ],
+        "pvp": [
+            182,
+            17,
+            428,
+            "solo",
+            302.7786407470703,
+            6.493072509765625
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

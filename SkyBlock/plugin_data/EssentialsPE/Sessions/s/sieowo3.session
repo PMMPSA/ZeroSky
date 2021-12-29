@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "t": [
+            1,
+            4,
+            -353,
+            "TestBuild",
+            211.97003173828125,
+            5.7753143310546875
+        ],
+        "j": [
+            97,
+            6,
+            -393,
+            "TestBuild",
+            341.2100524902344,
+            -0.2462615966796875
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

@@ -1,0 +1,54 @@
+---
+version: 1
+blocks:
+- x: 259
+  "y": 49
+  z: 243
+  level: shop
+  commands:
+  - kill TheLucifer
+- x: 8
+  "y": 27
+  z: 689
+  level: Lobby3
+  commands:
+  - stop
+- x: 70
+  "y": 27
+  z: 784
+  level: Lobby3
+  commands:
+  - stop
+- x: 269
+  "y": 56
+  z: 201
+  level: parkour
+  commands:
+  - prize%op% pkde
+  - prize%op% prize pkde
+  - pw%op% prize pkde
+  - pw prize pkde
+  - pw%op% prize pkkho
+  - pw%op% prize pkde
+  - pw%op prize pkde
+- x: 356
+  "y": 70
+  z: 250
+  level: parkour
+  commands:
+  - pw%op% prize pktrungbinh
+  - pw%op prize pktrungbinh
+- x: 264
+  "y": 59
+  z: 341
+  level: parkour
+  commands:
+  - pw%op prize pkkho
+- x: -87
+  "y": 74
+  z: 9
+  level: SkyBlockSpawn
+  commands:
+  - warp pk
+  - pw%op prize pk1
+...

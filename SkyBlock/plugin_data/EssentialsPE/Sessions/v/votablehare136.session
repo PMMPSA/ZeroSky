@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "nha1": [
+            -1604,
+            82,
+            122,
+            "SkyBlock",
+            310.6182403564453,
+            -25.125518798828125
+        ],
+        "nha2": [
+            2334,
+            69,
+            838,
+            "SkyBlock",
+            169.02655029296875,
+            6.03460693359375
+        ],
+        "nha3": [
+            -1383,
+            63,
+            -1795,
+            "SkyBlock",
+            298.46380615234375,
+            54.03303527832031
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

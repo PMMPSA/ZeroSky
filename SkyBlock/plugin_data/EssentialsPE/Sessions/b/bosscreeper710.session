@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "slow1": [
+            -1035,
+            68,
+            1213,
+            "SkyBlock",
+            214.19566345214844,
+            9.089645385742188
+        ],
+        "ok": [
+            -22,
+            4,
+            -311,
+            "TestBuild",
+            194.02325439453125,
+            2.2496185302734375
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

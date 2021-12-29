@@ -1,0 +1,38 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "adu1": [
+            -2520,
+            78,
+            -1420,
+            "SkyBlock",
+            85.70083618164062,
+            18.473556518554688
+        ],
+        "adu2": [
+            -2516,
+            73,
+            -1419,
+            "SkyBlock",
+            359.5731658935547,
+            51.24029541015625
+        ],
+        "top": [
+            -2302,
+            101,
+            -1588,
+            "SkyBlock",
+            89.19088745117188,
+            62.872589111328125
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

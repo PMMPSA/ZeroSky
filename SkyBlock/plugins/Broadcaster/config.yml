@@ -1,0 +1,74 @@
+---
+# Available tags for broadcast messages, popups and titles:
+# - {MAXPLAYERS}: Show the maximum number of players supported by the server
+# - {TOTALPLAYERS}: Show the number of all online players
+# - {PREFIX}: Show prefix
+# - {SUFFIX}: Show suffix
+# - {TIME}: Show current time
+# Available tags for /sendmessage, /sendpopup and /sendtitle format:
+# - {MESSAGE}: Show message
+# - {MAXPLAYERS}: Show the maximum number of players supported by the server
+# - {TOTALPLAYERS}: Show the number of all online players
+# - {PREFIX}: Show prefix
+# - {PLAYER}: Message receiver
+# - {SENDER}: Show sender name
+# - {SUFFIX}: Show suffix
+# - {TIME}: Show current time
+# Extra tag for titles:
+# - {SUBTITLE}: Add subtitle (the text after this tag will be the content of the subtitle) 
+# Prefix
+prefix: "§6§bHệ Thống:"
+# Suffix
+suffix: "[A]"
+# Date\Time format (replaced in {TIME}). For format codes read http://php.net/manual/en/datetime.formats.php
+datetime-format: "H:i:s"
+# Message broadcast
+message-broadcast:
+ # Enable message broadcast
+ enabled: true
+ # Broadcast interval (in seconds)
+ time: 80
+ # Command /sendmessage format
+ command-format: "&e[{TIME}] {PREFIX} {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+ # Broadcast messages
+ messages:
+  - "&e{PREFIX}&f Nếu có bug,hack trong server bạn hãy báo admin,admin sẽ phát quà cho bạn đã báo admin!"
+  - "&e{PREFIX}&f hãy vote cho server tại:bit.do/zeroskyvote để nhận quà khủng nhé"
+  - "&e{PREFIX}&f chúc bạn chơi game vui vẻ"
+  - "&e{PREFIX}&f Mua hoặc bán đồ?Hãy ghi /shop"
+  - "&e{PREFIX}&f để nạp thẻ liên hệ admin qua fb.com/nguyenbmt06"
+  - "&e{PREFIX}&f Sử dụng /buyec để mua enchant.Giá mỗi cấp enchant là 7000 xu!"
+  - "&e{PREFIX}&f Sử dụng /sell all để bán nhanh!"
+  - "&e{PREFIX}&f Lưu ý:Cấm sử dụng sharpness quá level 10.Nếu admin phát hiện trong kho có Kiếm sharpness hơn lv 10 admin sẽ ban!"
+  - "&e{PREFIX}&f Lưu ý:Có thể lấy vé từng loại vé quay khi /vote hoặc mua ở /cs!"
+  - "&e{PREFIX}&f Lưu ý:Tại /cs bạn có thể MUA sách CustomEnchants!"
+  - "&e{PREFIX}&f Lưu ý:Nước+hàng rào=ore với block nhé!"
+  - "&e{PREFIX}&f Cúp 50 có bán trong /cs nhé!"
+# Popup broadcast
+popup-broadcast:
+ # Enable popup broadcast
+ enabled: false
+ # Popup broadcast interval (in seconds)
+ time: 80
+ # Popup duration (in seconds)
+ duration: 5
+ # Command /sendpopup format
+ command-format: "&a{SENDER}&e>>&f {MESSAGE}"
+ # Popup broadcast messages
+ messages:
+  - "&aWelcome to your server"
+  - "&d{TOTALPLAYERS} &eof &d{MAXPLAYERS} &eonline"
+  - "&bCurrent Time: &a{TIME}"
+# Title broadcast
+title-broadcast:
+ # Enable title broadcast
+ enabled: false
+ # Title broadcast interval
+ time: 60
+ # Command /sendtitle format
+ command-format: "&d{MESSAGE}"
+ # Title broadcast messages
+ messages:
+  - "&aWelcome to your server!{SUBTITLE}&bGood game!"
+  - "&eHello player!"
+...

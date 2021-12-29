@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "formingrobin": [
+            247,
+            1,
+            238,
+            "solo",
+            169.80023193359375,
+            52.890625
+        ],
+        "fromingrobin809": [
+            247,
+            1,
+            238,
+            "solo",
+            210.38755798339844,
+            44.992218017578125
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

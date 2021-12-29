@@ -1,0 +1,16 @@
+name: FactionsPro
+author: TranThanhNguyen
+description: A Plugin For Easily Managing Factions
+version: 1.3.13
+main: FactionsPro\FactionMain
+api: [3.0.0]
+softdepend: ["PureChat", "AntiSpamPro"]
+extensions: [sqlite3]
+commands:
+  g:
+    description: use /f help for all parameters
+    permission: f.command
+permissions:
+  f.command:
+    default: true
+    description: "Allow use of all faction commands"

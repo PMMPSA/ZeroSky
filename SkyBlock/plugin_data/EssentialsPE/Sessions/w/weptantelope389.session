@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "farm": [
+            -1423,
+            69,
+            277,
+            "SkyBlock",
+            84.51193237304688,
+            54.037353515625
+        ],
+        "farm1": [
+            2306,
+            81,
+            -1773,
+            "SkyBlock",
+            107.3670654296875,
+            50.684478759765625
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

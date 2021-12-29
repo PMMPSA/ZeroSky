@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "enli": [
+            -832,
+            69,
+            2698,
+            "SkyBlock",
+            209.1480255126953,
+            11.725173950195312
+        ],
+        "bed": [
+            2895,
+            65,
+            -2530,
+            "SkyBlock",
+            0,
+            0
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

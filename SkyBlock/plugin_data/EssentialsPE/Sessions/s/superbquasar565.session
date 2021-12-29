@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "nhamoi": [
+            1954,
+            69,
+            -2706,
+            "SkyBlock",
+            265.45603942871094,
+            -9.24615478515625
+        ],
+        "shop": [
+            3084,
+            69,
+            648,
+            "SkyBlock",
+            263.3449478149414,
+            33.48994445800781
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

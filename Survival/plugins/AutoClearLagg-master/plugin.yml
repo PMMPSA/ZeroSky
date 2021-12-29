@@ -1,0 +1,9 @@
+name: AutoClearLagg
+description: The plugin you need to keep your server lagg free!
+
+main: AutoClearLagg\Main
+version: 2.0.0
+api: [3.0.0]
+
+author: Potatoe
+website: https://github.com/PotatoeTrainYT/AutoClearLagg

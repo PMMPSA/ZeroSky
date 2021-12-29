@@ -1,0 +1,30 @@
+{
+    "isAFK": false,
+    "isGod": false,
+    "homes": {
+        "jail": [
+            1416,
+            78,
+            -1586,
+            "SkyBlock",
+            309.4928283691406,
+            30.274520874023438
+        ],
+        "pvp": [
+            204,
+            16,
+            453,
+            "solo",
+            318.8026428222656,
+            90
+        ]
+    },
+    "isMuted": false,
+    "mutedUntil": null,
+    "nick": null,
+    "ptCommands": false,
+    "ptChatMacros": false,
+    "isPvPEnabled": true,
+    "isUnlimitedEnabled": false,
+    "isVanished": false
+}

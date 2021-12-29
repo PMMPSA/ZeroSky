@@ -1,0 +1,51 @@
+#  ██████╗  █████╗ ███╗   ██╗██╗  ██╗██╗   ██╗██████╗ ██████╗  ██████╗ ███████╗███████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗██████╗ ███████╗
+#  ██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝██║   ██║██╔══██╗██╔══██╗██╔═══██╗██╔════╝██╔════╝██╔════╝ ██╔══██╗██╔═══██╗██║   ██║██╔══██╗██╔════╝
+#  ██████╔╝███████║██╔██╗ ██║█████╔╝ ██║   ██║██████╔╝██║  ██║██║   ██║█████╗  ███████╗██║  ███╗██████╔╝██║   ██║██║   ██║██████╔╝███████╗
+#  ██╔══██╗██╔══██║██║╚██╗██║██╔═██╗ ██║   ██║██╔═══╝ ██║  ██║██║   ██║██╔══╝  ╚════██║██║   ██║██╔══██╗██║   ██║██║   ██║██╔═══╝ ╚════██║
+#  ██║  ██║██║  ██║██║ ╚████║██║  ██╗╚██████╔╝██║     ██████╔╝╚██████╔╝███████╗███████║╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║     ███████║
+#  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝
+#
+# The really really (really) stupid group manaager. The only good part is the ascii art so enjoy it :-)
+
+groups:
+  PMem:
+    entrance: []
+    exit: []
+    perms: 
+  - essentials.command.delhome
+  - essentials.command.home
+  - essentials.command.sethome
+  - essentials.delhome
+  - essentials.home
+  - essentials.home.use
+  - essentials.kit
+  - essentials.kit.other
+  - essentials.sethome
+  - essentials.tpa
+  - essentials.tpaccept
+  - essentials.tpahere
+  - essentials.warp.use
+  - essentials.warps.pk
+  - essentials.warps.pvp
+  - essentials.warps.sb
+  - essentialstp.command.tpa
+  - essentialstp.command.tpaccept
+  - essentialstp.command.tpadeny
+  - essentialstp.command.tpahere
+  - essentialstp.command.warp
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pperms.command.ppinfo
+  - repair.command.use
+  - repair.command.use.all
+  - repair.command.use.hand
+  - sell
+  - sell.all
+  - sell.command
+  - sell.hand
+  - essentials.fly.use
+  - pocketmine.command.teleport
+    members: []
+
+

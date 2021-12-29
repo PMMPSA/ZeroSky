@@ -1,0 +1,37 @@
+---
+pk:
+  x: 269.552900
+  "y": 56.000000
+  z: 250.630700
+  level: parkour
+  public: true
+  metadata: []
+break:
+  x: -101.287400
+  "y": 72.000000
+  z: 115.525400
+  level: Hub
+  public: true
+  metadata: []
+sb:
+  x: 272.000000
+  "y": 70.000000
+  z: 277.000000
+  level: SkyBlock
+  public: true
+  metadata: []
+jail:
+  x: 1399.065100
+  "y": 73.000000
+  z: -1592.259000
+  level: SkyBlock
+  public: true
+  metadata: []
+pvp:
+  x: 202.824200
+  "y": 5.000000
+  z: 448.048500
+  level: solo
+  public: true
+  metadata: []
+...

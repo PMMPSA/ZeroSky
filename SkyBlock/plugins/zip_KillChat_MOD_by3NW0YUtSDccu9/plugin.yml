@@ -1,0 +1,7 @@
+name: KillChat
+version: 1.0.2.MOD
+api: [3.0.0-ALPHA12, 3.0.0]
+main: Praxthisnovcht\KillChat\KillChat
+author: [Flavius12,Praxthisnovcht]
+#depend: [CustomChat]
+description: Adds Counter Kill for superBAR
